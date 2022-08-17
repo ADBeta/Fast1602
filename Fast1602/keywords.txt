@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For LCD1602
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Fast1602 	KEYWORD1	Fast1602
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init			KEYWORD2
+
+setPos			KEYWORD2
+shiftCursor		KEYWORD2
+shiftScreen		KEYWORD2
+createCustom	KEYWORD2
+
+
+printChar		KEYWORD2
+printString		KEYWORD2
+clearChars		KEYWORD2
+clear			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
